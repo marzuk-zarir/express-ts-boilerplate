@@ -1,0 +1,14 @@
+{
+    "editor.fontFamily": "'JetBrains Mono'",
+    "editor.fontSize": 18,
+
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true,
+        "source.organizeImports": true
+    },
+
+    "typescript.validate.enable": false,
+    "[typescript]": {
+        "editor.defaultFormatter": null
+    }
+}
